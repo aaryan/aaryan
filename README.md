@@ -1,4 +1,4 @@
-### Hi there, Aaryan this side. Currently learning about different algorithms. 👋
+### Hi there, Aaryan this side. Currently learning about algorithms. 👋
 
 <!--
 **aaryan/aaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
